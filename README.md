@@ -1,4 +1,4 @@
-# Dumbanengue-Prediction
+# Dumbanengue
 
 <div>
   <img src="https://github.com/HercoZauZau/Dumbanengue-Prediction/blob/main/assets/img/banner.png" alt="banner" />

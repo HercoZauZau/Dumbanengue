@@ -5,3 +5,10 @@
 </div>
 
 Food Price Prediction using Mozambican Data.
+
+## Dataset Information
+• Name: Mozambique - Food Prices
+
+• Source: https://data.humdata.org/dataset/wfp-food-prices-for-mozambique
+
+• License: [Creative Commons Attribution for Intergovernmental Organisations](https://data.humdata.org/faqs/licenses)

@@ -16,7 +16,7 @@ By leveraging historical data and various features, we aim to provide insights i
 
 Explore the project's articles for a deeper understanding:
 
-1. **Building the Model** - This article provides a detailed guide on how to construct the predictive model, making it an ideal resource for understanding the technical aspects. [Read the tutorial]().
+1. **Building the Model** - This article provides a detailed guide on how to construct the predictive model, making it an ideal resource for understanding the technical aspects. [Read the tutorial](https://medium.com/@zauzau/food-price-in-mozambique-building-the-prediction-algorithm-1c2c80beea4a).
 
 2. **Understanding the Model** - Dive into an in-depth analysis of the model's socioeconomic implications, shedding light on the broader context and real-world applications. [Read the analysis]().
 

@@ -4,6 +4,8 @@
   <img src="https://github.com/HercoZauZau/Dumbanengue-Prediction/blob/main/assets/img/banner.png" alt="banner" />
 </div>
 
+---
+
 ## Overview
 
 This project is a machine learning model that predicts food prices in Mozambique. 
@@ -58,3 +60,13 @@ If you'd like to contribute to this project, please follow the standard GitHub F
 
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this code for your own purposes.
+
+---
+
+<div align="center">
+  <img src="https://github.com/HercoZauZau/Dumbanengue/blob/main/assets/gif/dumbanengue.gif?raw=true" alt="gif">
+</div>
+
+<div align="center">
+  https://dumbanengue.up.railway.app
+</div>

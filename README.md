@@ -1,9 +1,8 @@
 # Dumbanengue - Mozambican Food Price Prediction
 
-<div>
-  <img src="https://github.com/HercoZauZau/Dumbanengue-Prediction/blob/main/assets/img/banner.png" alt="banner" />
+<div align="center">
+  <img src="https://github.com/HercoZauZau/Dumbanengue/blob/main/assets/gif/dumbanengue.gif?raw=true" alt="gif">
 </div>
-
 ---
 
 ## Overview
@@ -63,10 +62,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ---
 
-<div align="center">
-  <img src="https://github.com/HercoZauZau/Dumbanengue/blob/main/assets/gif/dumbanengue.gif?raw=true" alt="gif">
-</div>
-
-<div align="center">
-  https://dumbanengue.up.railway.app
-</div>
